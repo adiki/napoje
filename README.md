@@ -1,8 +1,8 @@
-### Menu napojów
+# Menu napojów
 
 ## HERBATA:
 
-# CZARNA:
+### CZARNA:
 Ceylon Gold 
 Earl Grey
 Lady Grey 
@@ -16,20 +16,20 @@ Mango & truskawka
 Blackcurrant (czarna porzeczka) 
 Monte Rosa (czarna z ziołami) 
 
-# ZIELONA:
+### ZIELONA:
 Pure Green (zwykła) 
 Zielona z pigwą 
 Papaja & jagody goi 
 Czerwony Smok
 Słodkie Mango 
 
-# ZIOŁOWA:
+### ZIOŁOWA:
 Melisa 
 Melisa z pomarańczą 
 Melisa z chmielem i kardamonem 
 Mięta 
 
-# INNE:
+### INNE:
 Żółta: granat i żurawina 
 Yerba Mate z miętą i trawą cytrynową
 Rooibos 
