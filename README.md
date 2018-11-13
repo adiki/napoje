@@ -3,18 +3,18 @@
 ## HERBATA:
 
 ### CZARNA:
-#### Ceylon Gold 
-Earl Grey
-Lady Grey 
-Earl Grey i płatki róży 
-Brzoskwinia i morela
-Pigwa i granat 
-Brzoskwinia & liczi 
-Caramel 
-Lemon & Lime 
-Mango & truskawka 
-Blackcurrant (czarna porzeczka) 
-Monte Rosa (czarna z ziołami) 
+Ceylon Gold  
+Earl Grey  
+Lady Grey  
+Earl Grey i płatki róży  
+Brzoskwinia i morela  
+Pigwa i granat  
+Brzoskwinia & liczi  
+Caramel  
+Lemon & Lime  
+Mango & truskawka  
+Blackcurrant (czarna porzeczka)  
+Monte Rosa (czarna z ziołami)  
 
 ### ZIELONA:
 Pure Green (zwykła) 
