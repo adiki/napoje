@@ -3,45 +3,45 @@
 ## HERBATA:
 
 ### CZARNA:
-Ceylon Gold  
-Earl Grey  
-Lady Grey  
-Earl Grey i płatki róży  
-Brzoskwinia i morela  
-Pigwa i granat  
-Brzoskwinia & liczi  
-Caramel  
-Lemon & Lime  
-Mango & truskawka  
-Blackcurrant (czarna porzeczka)  
-Monte Rosa (czarna z ziołami)  
+1. Ceylon Gold  
+2. Earl Grey  
+3. Lady Grey  
+4. Earl Grey i płatki róży  
+5. Brzoskwinia i morela  
+6. Pigwa i granat  
+7. Brzoskwinia & liczi  
+8. Caramel  
+9. Lemon & Lime  
+10. Mango & truskawka  
+11. Blackcurrant (czarna porzeczka)  
+12. Monte Rosa (czarna z ziołami)  
 
 ### ZIELONA:
-Pure Green (zwykła) 
-Zielona z pigwą 
-Papaja & jagody goi 
-Czerwony Smok
-Słodkie Mango 
+1. Pure Green (zwykła) 
+2. Zielona z pigwą 
+3. Papaja & jagody goi 
+4. Czerwony Smok
+5. Słodkie Mango 
 
 ### ZIOŁOWA:
-Melisa 
-Melisa z pomarańczą 
-Melisa z chmielem i kardamonem 
-Mięta 
+1. Melisa 
+2. Melisa z pomarańczą 
+3. Melisa z chmielem i kardamonem 
+4. Mięta 
 
 ### INNE:
-Żółta: granat i żurawina 
-Yerba Mate z miętą i trawą cytrynową
-Rooibos 
-Pomarańcza i goździki 
-Super Slim (yerba mate, morszczyn, hibiskus) 
+1. Żółta: granat i żurawina 
+2. Yerba Mate z miętą i trawą cytrynową
+3. Rooibos 
+4. Pomarańcza i goździki 
+5. Super Slim (yerba mate, morszczyn, hibiskus) 
 
 ## KAWA:
-Kawa
-Espresso
-Espresso doppio
-Espresso macchiato
-Cappuccino
-Latte macchiato
-Flat white 
-Ristretto 
+1. Kawa
+2. Espresso
+3. Espresso doppio
+4. Espresso macchiato
+5. Cappuccino
+6. Latte macchiato
+7. Flat white 
+8. Ristretto 
