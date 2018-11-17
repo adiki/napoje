@@ -1,6 +1,6 @@
 # Menu napojów
 
-## HERBATA:
+## HERBATY:
 
 ### CZARNA:
 1. Ceylon Gold  
@@ -44,4 +44,20 @@
 5. Cappuccino
 6. Latte macchiato
 7. Flat white (kawa biała)
-8. Ristretto 
+8. Ristretto
+
+## PIWA
+1. Perła Export
+2. Okocim Jasne
+3. Corona
+
+## WINO
+1. Toscana
+2. Le Grand Noir
+
+## DRINKI
+1. Kamikaze
+
+## WÓDKA
+1. Smirnoff
+2. Finlandia
