@@ -46,18 +46,20 @@
 7. Flat white (kawa biała)
 8. Ristretto
 
-## PIWA
+## ALKOHOLE
+
+### PIWA
 1. Perła Export
 2. Okocim Jasne
 3. Corona
 
-## WINO
+### WINO
 1. Toscana
 2. Le Grand Noir
 
-## DRINKI
+### DRINKI
 1. Kamikaze
 
-## WÓDKA
+### WÓDKA
 1. Smirnoff
 2. Finlandia
