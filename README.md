@@ -43,5 +43,5 @@
 4. Espresso macchiato
 5. Cappuccino
 6. Latte macchiato
-7. Flat white 
+7. Flat white (kawa biała)
 8. Ristretto 
