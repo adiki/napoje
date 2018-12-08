@@ -14,7 +14,8 @@
 9. Lemon & Lime  
 10. Mango & truskawka  
 11. Blackcurrant (czarna porzeczka)  
-12. Monte Rosa (czarna z ziołami)  
+12. Jabłko, cynamon, wanilia
+13. Monte Rosa (czarna z ziołami)
 
 ### ZIELONA:
 1. Pure Green (zwykła) 
