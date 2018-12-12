@@ -33,7 +33,7 @@
 ### INNE:
 1. Żółta: granat i żurawina 
 2. Yerba Mate z miętą i trawą cytrynową
-3. Rooibos 
+3. Czerwona cytrynowa
 4. Pomarańcza i goździki 
 5. Super Slim (yerba mate, morszczyn, hibiskus) 
 
